@@ -1,0 +1,19 @@
+[
+    {
+        "nombre":"Dashboard",
+        "redirect":"/dashboard"
+    },
+    {
+        "nombre":"Members",
+        "redirect":"/dashboard/members"
+    },
+    {
+        "nombre":"Tools",
+        "redirect":"/dashboard/tools"
+    },
+    {
+        "nombre":"Articles",
+        "redirect":"/dashboard/articles"
+    }
+    
+]

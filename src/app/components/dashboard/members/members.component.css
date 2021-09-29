@@ -1,0 +1,14 @@
+.container table {
+  margin-top:10px;
+    width: 100%;
+  }
+  .pointer{
+    cursor: pointer;
+  }
+
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  
